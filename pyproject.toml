@@ -1,9 +1,9 @@
 [project]
-name = "ttt_exchange_rate_app"
+name = "exchange_rate_app"
 authors = [
     { name = "ma7mod7osam", email = "ma7mod7osam@gmail.com"}
 ]
-description = "ttt_exchange_rate_app"
+description = "exchange_rate_app"
 requires-python = ">=3.10"
 readme = "README.md"
 dynamic = ["version"]
